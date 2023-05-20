@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickChat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="bird_logo">bird_logo</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="type_messsage">Type messsage...</string>
+    <string name="sendbtn">sendbtn</string>
+</resources>
